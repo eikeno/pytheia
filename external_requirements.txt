@@ -1,0 +1,9 @@
+To enable Support of reading 7z files/archives make sure to install system wide 7z support:
+
+Debian
+p7zip-full
+p7zip-rar
+
+Arch:
+7zip
+
